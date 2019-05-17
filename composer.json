@@ -1,0 +1,13 @@
+{
+    "name": "freeshifter/ssc",
+    "description": "Easily received payments on your website using an existing Stripe account, and the Stripe Checkout system.",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+	"version": "0.1.0",
+    "authors": [
+        {
+            "name": "Freeshifter LLC",
+            "email": "contact@freeshifter.com"
+        }
+    ]
+}
