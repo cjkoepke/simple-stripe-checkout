@@ -1,6 +1,6 @@
 <?php
 /**
- * Easily received payments on your website using an existing Stripe account, and the Stripe Checkout system.
+ * Easily receive payments on your website using an existing Stripe account, and the Stripe Checkout system.
  * Users are directed off-site to complete purchases, and upon success or cancel redirected to pre-set pages on your site.
  * This plugin stores NO data from your transactions, other than caching Stripe products and your public API key.
  *
